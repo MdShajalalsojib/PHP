@@ -10,7 +10,8 @@ PHP (Hypertext Preprocessor) is a popular server-side scripting language used ma
 PHP scripts are written inside a file with the .php extension and executed on the server before the result is displayed as HTML.
 
 ## Basic Examples
- <!DOCTYPE html>
+ ```php
+<!DOCTYPE html>
 <html>
   <head><title>PHP Hello</title></head>
   <body>
