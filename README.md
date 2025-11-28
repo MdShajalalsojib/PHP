@@ -20,3 +20,14 @@ PHP scripts are written inside a file with the .php extension and executed on th
     ?>
   </body>
 </html>
+
+
+# ✅ Basic PHP Syntax
+  - PHP Tags
+  PHP code must be written inside special tags:
+  ```php
+  
+  <?php
+  // PHP code here
+?>
+
