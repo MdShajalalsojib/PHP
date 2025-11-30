@@ -31,10 +31,12 @@ PHP scripts are written inside a file with the .php extension and executed on th
   <?php
   // PHP code here
 ?>
+
+
 ## Echo (Output Statement)
  - Used to print/ display text in the browser:
  ```php
- 
+
  <?php
 echo "Hello, PHP!";
 ?>
